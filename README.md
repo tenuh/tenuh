@@ -27,7 +27,7 @@ You can click the Preview link to take a look at your changes.
 
 [![Run on Repl.it](https://repl.it/badge/github/Quiec/whatsasena)](https://repl.it/@Quiec/whatsasena)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Quiec/WhatsAsena)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/tenuh/tenuh)
 
 ### ⚠️ Warning! 
 ```
