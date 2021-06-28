@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://telegra.ph/file/2bb57436d0a84b7f02fff.jpg?compress=1&resize=400x300" width="250" height="180">
+  <h1>👽TeeenuhX⚡</h1>
+</div>
 
 ### Hi there, I'm Teenuh-X [TeenuhX][website] 👋
 
