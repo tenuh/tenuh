@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center"><b> THE Hash Z Public Bot  </b></h1>
 
-![logo](https://telegra.ph/file/569fd05fb4c587a360d38.jpg)
+![logo](https://telegra.ph/file/569fd05fb4c587a360d8.jpg)
 
 
 
@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
     Project of Hash Z - Makes it easy and fun to use Whatsapp. Also first Sinhala userbot for Whatsapp.
     <br>
-        <a href="http://t.me/teenuh01">Telegram Channel</a> |
+        <a href="http://t.me/teenuh0">Telegram Channel</a> |
         <a href="https://t.me/teenuh01">Telegram Group</a> |
         <a href="https://chat.whatsapp.com/JigWG8oj1hj1YXLgJaqxt">New Support Group</a> |
         <a href="https://t.me/unofficialplugin">All Groups & channels </a> |
